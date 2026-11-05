@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-sfda-drugs",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "SFDA Drugs — Saudi Food and Drug Authority drug data",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "sfda-drugs",
     "gatewaySlug": "sfda-drugs",
-    "sourceHash": "v1-ccca5ebd249ddc1412899f9b9111b3ae45dc163e610d571f6d57d71ce86e3e69",
-    "sourceCommit": "f47d581679e1e887373df51ba623f891fbe4c464"
+    "sourceHash": "v1-7403ebbec68d262d441cdf1e65e0f1257af2998bbede21955b8630e6ca5e40d3",
+    "sourceCommit": "8fc802aa5e23be625ce08d97178f5676c7bc93f3"
   }
 }
